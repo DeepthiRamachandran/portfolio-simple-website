@@ -13,13 +13,9 @@ Welcome to my portfolio website! This project showcases my skills, projects, and
 - HTML5
 - CSS3
 
-## Getting Started
-
-To view my portfolio, simply clone the repository and open the `index.html` file in your web brow
-
 ## Live Demo
 
-You can view my portfolio live at [your-live-site-url](your-live-site-url).
+You can view my portfolio live at " https://deepthiramachandran.github.io/portfolio-simple-website/"
 
 ## Contributions
 
